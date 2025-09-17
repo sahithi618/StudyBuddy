@@ -5,9 +5,9 @@ I'm Sirimalla Sahithi, a 3rd year undergarduate in Chemical Engineering at India
 Students in universities often face information overload, with lecture notes, PDFs, and textbooks piling up in formats that don’t match their personal way of learning. A single method of studying cannot suit everyone — some prefer quizzes, others need summaries or flashcards. This lack of adaptability makes it harder for students to retain knowledge effectively. To address this, we propose an AI-powered study assistant that converts raw study material into flexible learning aids — summaries, quizzes, or flashcards — enabling each student to study in the way that works best for them and easing the pressure of academic life.
 
 ### LLM Ineraction logs links
-https://chatgpt.com/share/68c93e44-70e8-8001-89e0-9d88f20a9c88
-https://chatgpt.com/c/68c4557e-3c04-8322-894e-a34a6f4eea85
-https://claude.ai/chat/03b70721-fe51-4ed4-b231-419cc1d01a9d
+https://chatgpt.com/share/68c93e44-70e8-8001-89e0-9d88f20a9c88              
+https://chatgpt.com/c/68c4557e-3c04-8322-894e-a34a6f4eea85                                  
+https://claude.ai/chat/03b70721-fe51-4ed4-b231-419cc1d01a9d                        
 https://claude.ai/chat/07048020-2dfa-42ed-a8b7-b6a9a612745e
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
