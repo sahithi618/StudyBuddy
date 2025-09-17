@@ -1,5 +1,5 @@
 Hello,
-I'm Sirimalla Sahithi, a 3rd year undergarduate in Chemical Engineering at Indian Institutte of Techmology Ropar.
+I'm Sirimalla Sahithi, a 3rd year undergraduate in Chemical Engineering at Indian Institute of Technology Ropar.
 
 ## Problem Statement
 Students in universities often face information overload, with lecture notes, PDFs, and textbooks piling up in formats that don’t match their personal way of learning. A single method of studying cannot suit everyone — some prefer quizzes, others need summaries or flashcards. This lack of adaptability makes it harder for students to retain knowledge effectively. To address this, we propose an AI-powered study assistant that converts raw study material into flexible learning aids — summaries, quizzes, or flashcards — enabling each student to study in the way that works best for them and easing the pressure of academic life.
